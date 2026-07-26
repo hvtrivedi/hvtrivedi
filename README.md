@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Trivedi</h1>
 <h3 align="center">MCA Student | Cybersecurity & Digital Forensics | Java & Spring Boot Developer | Ethical Hacker | Python Enthusiast</h3>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:4B0082&height=220&section=header&text=Harshvardhan%20Trivedi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Java%20Developer&descAlignY=55"/>
+</p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvtrivedi&label=Profile%20views&color=0e75b6&style=flat" alt="hvtrivedi" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hvtrivedi&theme=onedark" /></a> </p> -->
