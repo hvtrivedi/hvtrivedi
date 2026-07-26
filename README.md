@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Harshvardhan+Trivedi;Cybersecurity+Researcher;Java+%7C+Spring+Boot+Developer;Digital+Forensics+Student;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
-[CodeArena Backend](https://github.com/hvtrivedi/codearena-backend)
+[CodeArena Project](https://github.com/hvtrivedi/codearena-backend)
 
 - 🌱 I’m currently learning **Digital Forensics, Malware Analysis, Reverse Engineering**
 
