@@ -6,8 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hvtrivedi&theme=onedark" /></a> </p> -->
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hvtrivedi&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvtrivedi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Harshvardhan+Trivedi;Cybersecurity+Researcher;Java+%7C+Spring+Boot+Developer;Digital+Forensics+Student;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on [CodeArena](CodeArena)
