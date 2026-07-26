@@ -5,6 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hvtrivedi&theme=onedark" /></a> </p> -->
 
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hvtrivedi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvtrivedi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 - 🔭 I’m currently working on [CodeArena](CodeArena)
 
 - 🌱 I’m currently learning **Digital Forensics, Malware Analysis, Reverse Engineering**
